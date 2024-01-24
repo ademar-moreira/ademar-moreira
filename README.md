@@ -7,8 +7,8 @@ Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 <div>
 <a href="https://github.com/ademar-moreira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademar-moreira&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ademar-moreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademar-moreira&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ademar-moreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 *   ### Skills 
