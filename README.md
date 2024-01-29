@@ -9,10 +9,6 @@ Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <a href="https://github.com/ademar-moreira">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademar-moreira&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ademar-moreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademar-moreira)](https://github.com/ademar-moreira/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ademar-moreira&show_icons=true)
 </div>
 
 *   ### Skills 
